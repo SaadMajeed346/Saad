@@ -1,0 +1,43 @@
+
+body{
+    background-color: rgb(40, 44,52);
+    
+  }
+  #Loading{
+  
+  text-align: center;
+  color:white;
+  }
+    .header{
+      color:white;
+      text-align: center;
+      margin-top: 5%;
+    
+    }
+    .greenTxt{
+      color:rgb(97,218,251);
+    }
+    h1{
+      margin-bottom: 0;
+      font-size: xx-large;
+    }
+    #smallDesc{
+      margin-top: 0;
+      font-size: small;
+    }
+    #credentials{
+      background-color: white;
+      border: 1 px solid black;
+      width: 35%;
+      margin-left: 32%;
+     padding-left: 2%;
+     padding-right: 2%;
+     border-radius: 2%;
+     padding-top: 1%;
+     padding-bottom: 1%;
+     
+    }
+    
+  #users-did{
+    color: white;
+  }
